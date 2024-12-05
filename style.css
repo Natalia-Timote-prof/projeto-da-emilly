@@ -1,0 +1,28 @@
+body {
+    background-color: #a5eea0;
+}
+h1 {
+    color: black;
+}
+p {
+    color: black;
+}
+header {
+    background-color: black;
+    color: white;
+}
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+}
+nav a:hover {
+    color: black;
+    text-decoration: underline;
+}
+button {
+    text-decoration: none;
+    color: black;
+    background-color: #a5eea0;
+    border-radius: 8px;
+    padding: 16px;
+}
