@@ -1,4 +1,4 @@
 const botao = document.getElementById('botao')
 botao.addEventListener('click', () => {
-  alert('o botao foi clicado');
+  alert('Parabéns! E muito obrigada por acessar o meu site!');
 });  
